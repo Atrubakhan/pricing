@@ -1,11 +1,10 @@
-import logo from "./logo.svg";
 import "./App.css";
-import { Pricing } from "./pages/Pricing";
+import { FilterPage } from "./pages/FilterPage";
 
 function App() {
   return (
     <div className="App">
-      <Pricing />
+      <FilterPage />
     </div>
   );
 }

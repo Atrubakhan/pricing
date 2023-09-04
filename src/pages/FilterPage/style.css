@@ -1,0 +1,18 @@
+.filter-container {
+  width: 80%;
+  margin: auto;
+}
+.table-container {
+  width: 80%;
+  padding: 5rem;
+  margin: auto;
+}
+.search-fields {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.table-data {
+  padding: 1rem 0;
+  text-align: start;
+}

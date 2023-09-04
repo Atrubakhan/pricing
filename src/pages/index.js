@@ -1,3 +1,3 @@
-import Pricing from "./Pricing";
+import FilterPage from "./FilterPage";
 
-export { Pricing };
+export { FilterPage };
